@@ -1,3 +1,22 @@
+
+✨ Features
+
+➕ Add new workouts with exercise details, sets, reps, notes, and date
+
+📋 View a list of all workouts
+
+❌ Delete workouts you no longer need
+
+🎨 Styled with custom CSS for a modern look
+
+🔒 (Planned) Secure authentication using JWT
+
+📊 (Planned) Track progress with charts and analytics
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
