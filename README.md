@@ -14,6 +14,8 @@
 📊 (Planned) Track progress with charts and analytics
 
 
+<img width="1883" height="872" alt="Screenshot 2025-08-26 185043" src="https://github.com/user-attachments/assets/694345f4-2289-4e0a-82c3-eab420900c8c" />
+
 
 
 
